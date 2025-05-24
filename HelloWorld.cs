@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace HelloCSharp
+﻿namespace HelloCSharp
 {
     class HelloWorld
     {
